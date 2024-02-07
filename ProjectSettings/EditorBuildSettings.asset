@@ -11,4 +11,10 @@ EditorBuildSettings:
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: e465ee5f87d766f4bb7f43c6ec2daeb7,
       type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 5ea829f2bf4210849a592801eb7f57d6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: df5b9248d1c24214395250c4cd4d66b8,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a2a855b4026fd9a4b97e66c35d30034b,
+      type: 2}
   m_UseUCBPForAssetBundles: 0
